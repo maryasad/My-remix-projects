@@ -1,4 +1,4 @@
-# Remix Projects 
+# My Remix Projects 
 
 This repository contains a collection of smart contract projects developed using [Remix IDE](https://remix.ethereum.org). Each project is organized into its own folder and includes the following:
 
