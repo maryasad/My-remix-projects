@@ -13,7 +13,7 @@ A collection of useful resources related to blockchain, smart contracts, and dev
 
 ## Development Tools
 - [Remix IDE](https://remix.ethereum.org)
-- [Remix Project](https://remix-project.org/?lang=en): Online IDE for smart contract development and deployment.
+- [Remix Project](https://remix-project.org/?lang=en) ⚙️: Online IDE for smart contract development and deployment.
 - [Hardhat Documentation](https://hardhat.org/getting-started/): Comprehensive guide for building and testing blockchain projects.
 - [Truffle Suite](https://trufflesuite.com/): Development framework for Ethereum.
 
